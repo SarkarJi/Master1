@@ -1,2 +1,3 @@
-# Master1
-Customer Activity Indicator for xamarin forms
+# 
+Customer Activity Indicator for xamarin forms.
+totally flexible control.
